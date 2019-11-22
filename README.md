@@ -4,5 +4,5 @@ This repository is used to generate and deploy a docker image that contains Terr
 
 The Dockerfile will generate an image containing the following:
 
- * Terraform core in version 0.12.13
+ * Terraform core in version 0.12.16
  * Terraform latest providers used by terraform files: aws, archive, null, template, random
